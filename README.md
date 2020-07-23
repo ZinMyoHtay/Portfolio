@@ -1,4 +1,5 @@
-# Welcome ! I am Thura Aung.
+# Welcome ! 
+# I am Thura Aung.
 
 - 🎓 IT Engr at [Kyaukse Technological University](https://www.kyauksetu.edu.mm/about-ktu/)
 <br />
