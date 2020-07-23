@@ -6,4 +6,4 @@
 <br />
 - 📧 [Mail](thuraaung1601mandalay@gmail.com)
 <br />
-<a href="projects.html">My Projects</a>
+- <a href="projects.html">My Projects</a>
